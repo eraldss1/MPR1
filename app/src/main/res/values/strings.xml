@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PROFILE PAGE</string>
+    <string name="help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="permission">Permission</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="firebase">Firebase</string>
+
+    <string name="content_description">description</string>
+
+    <string name="toast_help">This is a profile page toast</string>
+    <string name="snackbar_about">This is a profile page snackbar</string>
+
+    <string name="close_dialog">Do you really want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="name">Name</string>
+    <string name="user_name">Phyllis G Mathena</string>
+
+    <string name="dob">Date of Birth</string>
+    <string name="user_dob">9/6/1987</string>
+
+    <string name="address">Address</string>
+    <string name="user_address">3684 Pin Oak Drive</string>
+
+    <string name="education">Education</string>
+
+    <string name="nim">NIM</string>
+
+
+</resources>
